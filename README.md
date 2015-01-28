@@ -1,2 +1,2 @@
-# SmartPacks
-Multi-platform packages kit allowing to run Rutube Smart TV App.
+# RutubeSmartPacks
+Package Kit allowing to run [web-hosted Rutube App](http://rutube.ru/tv/) on multiple Smart TV and STB platforms.
