@@ -4,12 +4,12 @@
     "bgImage": "images/bg1920.png",
     "icon": "icons/icon80.png",
     "iconColor": "#0968c8",
-    "id": "ru.rutube.webostv",
+    "id": "ru.rutube.webostv.test",
     "largeIcon": "icons/icon130.png",
     "main": "index.html",
     "title": "Rutube",
     "type": "web",
     "vendor": "Rutube",
     "splashBackground": "images/splash1920.png",
-    "version": "3.300.000"
+    "version": "9.0.0.06"
 }
