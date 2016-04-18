@@ -1,15 +1,15 @@
 {
-    "appDescription": "Смотри то, что любишь!",
-    "bgColor": "#0968c8",
+    "appDescription": "Всё, кроме обычного",
+    "bgColor": "#2f044a",
     "bgImage": "images/bg1920.png",
     "icon": "icons/icon80.png",
-    "iconColor": "#0968c8",
-    "id": "ru.rutube.webostv.test",
+    "iconColor": "#2f044a",
+    "id": "ru.rutube.tv3",
     "largeIcon": "icons/icon130.png",
     "main": "index.html",
-    "title": "Rutube",
+    "title": "TB-3",
     "type": "web",
     "vendor": "Rutube",
     "splashBackground": "images/splash1920.png",
-    "version": "10.0.0.15"
+    "version": "11.1.0-01"
 }

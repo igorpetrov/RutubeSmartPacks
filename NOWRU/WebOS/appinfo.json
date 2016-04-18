@@ -1,0 +1,13 @@
+{
+    "appDescription": "Будущее сейчас!",
+    "bgColor": "#093346",
+    "icon": "icons/icon80.png",
+    "iconColor": "#093346",
+    "id": "ru.rutube.tvnowru",
+    "largeIcon": "icons/icon130.png",
+    "main": "index.html",
+    "title": "NOW.RU",
+    "type": "web",
+    "vendor": "Rutube",
+    "version": "11.0.0-24"
+}
