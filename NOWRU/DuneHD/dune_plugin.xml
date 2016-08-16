@@ -11,7 +11,7 @@
         <key_enter>
           <type>launch_media_url</type>
           <data>
-            <url>www://http://rutube.ru/tv-release/nowru.server-11.0.0-24/index.html:::fullscreen=1&amp;webapp_keys=1&amp;zoom_level=100&amp;osd_size=1280x720&amp;overscan=0&amp;background_color=white&amp;input_handler=0</url>
+            <url>www://https://rutube.ru/tv-release/nowru.server-13.0.0-03/index.html:::fullscreen=1&amp;webapp_keys=1&amp;zoom_level=100&amp;osd_size=1280x720&amp;overscan=0&amp;background_color=white&amp;input_handler=0</url>
           </data>
         </key_enter>
       </actions>
