@@ -1,9 +1,9 @@
 {
     "appDescription": "Смотри то, что любишь!",
-    "bgColor": "#0968c8",
+    "bgColor": "#0A68C8",
     "bgImage": "images/bg1920.png",
     "icon": "icons/icon80.png",
-    "iconColor": "#0968c8",
+    "iconColor": "#0A68C8",
     "id": "ru.rutube.webostv",
     "largeIcon": "icons/icon130.png",
     "main": "index.html",
@@ -11,5 +11,5 @@
     "type": "web",
     "vendor": "Rutube",
     "splashBackground": "images/splash1920.png",
-    "version": "13.4.0-01"
+    "version": "14.1.0-02"
 }
